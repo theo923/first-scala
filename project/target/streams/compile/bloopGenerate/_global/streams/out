@@ -1,0 +1,4 @@
+[debug] [scala3-build] Classpath dependencies List()
+[debug] [scala3-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala3-build' to 'C:\Users\theot\Desktop\twitter\Scala\scala3\project\.bloop\scala3-build.json'
+[success] Generated .bloop\scala3-build.json
